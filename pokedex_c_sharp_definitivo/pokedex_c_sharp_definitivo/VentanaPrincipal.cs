@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace pokedex_c_sharp_definitivo
 {
-    //probando                                                           
+    //probando                                                            
     public partial class VentanaPrincipal : Form
     {
 
